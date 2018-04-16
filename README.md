@@ -11,11 +11,11 @@ The participation rate for ACT shows negative skew whereas SAT shows positive sk
 #### Hypothesis testing
 Setting up to test the hypothesis that SAT participation is different than the ACT participation rates.
 
-$H_0: \mu SAT Participation = \mu ACT Participation$ 
+$H_0: µSAT Participation = µACT Participation$ 
 
-$H_A: \mu SAT Participation \neq \mu ACT Participation$
+$H_A: µSAT Participation ≠ µACT Participation$
 
-The T-test produces a p-value of 0.00024 which is less than /alpha. We can reject the null Hypothesis and we are 95% confidence intervals for SAT and ACT participation rates are in between -.3105 and 1.1066 for SAT and 0.0069 to 1.2981 for ACT.
+The T-test produces a p-value of 0.00024 which is less than can reject the null Hypothesis and we are 95% confidence intervals for SAT and ACT participation rates are in between -.3105 and 1.1066 for SAT and 0.0069 to 1.2981 for ACT.
 
 #### Conclusion
 The results of the hypothesis test show that participation rates are higher for the ACT. Even though the tests cover the same subject matter, it seems that more students are taking the ACT. In order to find out why this is the case, we need nore data such as availability, test price, and to see if certain states have contracts with either of the testing companies.
